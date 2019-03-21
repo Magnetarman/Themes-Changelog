@@ -146,3 +146,6 @@
 ### 19-02-2019 | V 1.4.0 U2.1 RELEASE
 - Add new ScreenShot Theme
 - Fix Description in "style.css"
+
+### 21-03-2019 | V 1.4.0 U2.2
+- Clean "style.css" Code
