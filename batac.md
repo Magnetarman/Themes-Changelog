@@ -38,3 +38,15 @@
 ### 21-03-2019 | V 1.0.1 U1.5.2
 - Fix Load Issue
 - Add Analytics Code to "Footer.php"
+
+### 15-04-2019 | V 1.0.1 U1.5.2
+- Add "Screenshot" to Theme
+- Clean "Style.css" Code
+- Re-Enable Analytics Tracker
+
+### 16-04-2019 | V 1.0.1 RELEASE
+- Fix HomePage Layout
+- Fix "Style.css" Code
+
+### 20-04-2019 | V 1.0.2 RELEASE
+- Fix Mobile QTY Bug

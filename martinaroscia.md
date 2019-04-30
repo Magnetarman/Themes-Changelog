@@ -189,3 +189,39 @@
 
 ### 12-03-2019 | V 2.0.1 U1.1 Release
 - Clean "Style.css" Code
+
+### 29-04-2019 | V 2.0.1 U1.2
+- Fix Menu Bug
+- Override Bootstrap "grid.css"
+
+### 29-04-2019 | Change Tree
+- Work on 2.1 Branch
+
+### 29-04-2019 | V 2.1 U1
+- Set [Silvia](https://it.wordpress.org/themes/silvia/) with Starter Theme
+
+### 30-04-2019 | V 2.1 U1.1
+- Clean "Style.css" old Code
+- Fix "Footer.php" Bug
+- Clean "Header.php" Unused Code
+- Del unused Files
+
+### 30-04-2019 | V 2.1 U1.2
+- Fix Search Icon Menu Bug
+- Clean "Style.css" Code
+
+### 30-04-2019 | V 2.1 U1.2.1
+- "Style.css" Version updated
+
+### 30-04-2019 | V 2.1 U1.2.2
+- Clean "Style.css" Code
+- Fix Title Hover Bug
+- Fix Title Uppercase
+
+### 30-04-2019 | V 2.1 U1.3
+- Disable Comment Support
+- Fix Image Position in "Content-Single.php"
+
+### 30-04-2019 | V 2.1 U1.4
+- Add "Scroll" button to footer
+- Fix Button Sizes

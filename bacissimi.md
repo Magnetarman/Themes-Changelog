@@ -79,3 +79,10 @@
 
 ### 02-04-2019 | 1.2 U1.1
 - Fix "Onsale" Banner
+
+### 10-04-2019 | 1.2 U1.2
+- Update Shop-isle to 1.1.53
+
+### 26-04-2019 | 1.2 U1.2.1
+- Code Cleaning
+- Fix First Page Cateogry Description
