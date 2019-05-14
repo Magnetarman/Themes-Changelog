@@ -225,3 +225,27 @@
 ### 30-04-2019 | V 2.1 U1.4
 - Add "Scroll" button to footer
 - Fix Button Sizes
+
+### 03-05-2019 | V 2.1 U1.5
+- Fix Menu Bug
+- Add Menu Color Override
+- Add All "Silvia" Files
+- Del "Style.min.css" for developer reason
+
+### 05-05-2019 | V 2.1 U1.5.1
+- Fix "Style.css" Collision
+- Set Black all "Style.css" Grey Colors
+
+### 05-05-2019 | V 2.1 U2.0
+- Revert Theme to "child"
+- Fix Menu Bug
+
+### 08-05-2019 | V 2.1 U2.1
+- Fix Home Bugs
+- Variuous Color Fix
+- Footer Animation Fix
+- Fix "Style.css" Version
+
+### 08-05-2019 | V 2.1 U2.1 RELEASE
+- Remove Old Branch Files
+- Update "Style.css" Version
