@@ -3,7 +3,7 @@
 ### 01-07-2018 | Initial Commit
 - Add [Amadeus](https://themeisle.com/themes/amadeus/) Wordpress Theme
   
-### 01-07-2018 | V 1.9.3 STABLE
+### 01-07-2018 | V 1.9.3 (RELEASE)
 - Fix "404.php" Lang Text
 - Del "Changelog.md"
 - Del "README.md"
@@ -154,8 +154,6 @@
 ### 25-02-2019 | V 2.0 RC1
 - Last Fix
 
-### 26-02-2019 | Add Easter Egg
-
 ### 26-02-2019 | V 2.0 RC1.1
 - Fix Home Pic Bug
 - Fix Responsive Core
@@ -173,7 +171,7 @@
 - Fix Loading
 - Clean Code
 
-### 05-03-2019 | V 2.0 RC2.2 RELEASE
+### 05-03-2019 | V 2.0 RC2.2 (RELEASE)
 - Last Fix
 
 ### 07-03-2019 | V 2.0.1 
@@ -187,7 +185,7 @@
 - Fix "Header.php" class code
 - Fix Various Visualization Bug
 
-### 12-03-2019 | V 2.0.1 U1.1 Release
+### 12-03-2019 | V 2.0.1 U1.1 (RELEASE)
 - Clean "Style.css" Code
 
 ### 29-04-2019 | V 2.0.1 U1.2
@@ -246,6 +244,6 @@
 - Footer Animation Fix
 - Fix "Style.css" Version
 
-### 08-05-2019 | V 2.1 U2.1 RELEASE
+### 08-05-2019 | V 2.1 U2.1 (RELEASE)
 - Remove Old Branch Files
 - Update "Style.css" Version

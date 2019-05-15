@@ -3,7 +3,7 @@
 ### 01-07-2018 | Initial Commit
 - [Add Sixty One](https://www.cssigniter.com/themes/sixtyone/) Wordpress Theme
 
-### 01-07-2018 | V 1.3 STABLE
+### 01-07-2018 | V 1.3 (RELEASE)
 - Add Custom Google Font
 - Clean Theme from unused code
 - Update Bootstrap Core
@@ -11,11 +11,11 @@
 - Add [SmartSlider 3](https://smartslider3.com/) Support into Theme
 - Clean Css
 
-### 01-07-2018 | V 1.3.3 STABLE
+### 01-07-2018 | V 1.3.3 (RELEASE)
 - Fix Contact Number
 - Fix Css Issues
 
-### 01-07-2018 | V 1.3.4 STABLE
+### 01-07-2018 | V 1.3.4 (RELEASE)
 - Add Google Analytics Script
 - Add Room Text to "template-rooms.php"
 
@@ -37,7 +37,7 @@
 - Add Basket Icon
 - Add Revervation System
 
-### 20-12-2018 | V 1.3.4 U5 STABLE
+### 20-12-2018 | V 1.3.4 U5 (RELEASE)
 - Clean Old Booking System Page
 - Re-Organize Style.css Social Code
 - Sync with Offial Theme Change Branch
@@ -140,10 +140,10 @@
 - Add Google Analytics Code
 - Fix "Book Button" Code
 
-### 17-02-2019 | V 1.4.0 RELEASE
+### 17-02-2019 | V 1.4.0 (RELEASE)
 - Fix some Visualization Bug
 
-### 19-02-2019 | V 1.4.0 U2.1 RELEASE
+### 19-02-2019 | V 1.4.0 U2.1 (RELEASE)
 - Add new ScreenShot Theme
 - Fix Description in "style.css"
 

@@ -198,13 +198,13 @@
 - Aggiornate regole Seo delle pagine
 - Aggiornato Versione nel Footer
 
-## V 4 V.4.0 (RELEASE)
+## V 4.0 (RELEASE)
 - Attivata la nuova piattaforma di Pagamento Elettronico (Beta)
 - Aggiunta Pagina di Login riservata ai clienti (Beta)
 - Aggiunta Pagina per singolo cliente con il riepilogo dei servizi attivi (Beta)
 - Aggiunta Pagina relativa alle modalità di pagamento ed al trattamento dei dati personali (Beta)
 
-## V 4 V.4.1 (RELEASE)
+## V 4.1 (RELEASE)
 - Eliminata Sezione Filmopedia (Dismessa)
 - Eliminata Sezione Vlog (Dismessa)
 - Eliminata Sezione Tech (Dismessa)

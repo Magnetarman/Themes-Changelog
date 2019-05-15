@@ -44,9 +44,9 @@
 - Clean "Style.css" Code
 - Re-Enable Analytics Tracker
 
-### 16-04-2019 | V 1.0.1 RELEASE
+### 16-04-2019 | V 1.0.1 (RELEASE)
 - Fix HomePage Layout
 - Fix "Style.css" Code
 
-### 20-04-2019 | V 1.0.2 RELEASE
+### 20-04-2019 | V 1.0.2 (RELEASE)
 - Fix Mobile QTY Bug
