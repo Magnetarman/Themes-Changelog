@@ -48,5 +48,15 @@
 ### 21-05-2019 | V 0.0.6 U1
 - Fix Responsive Core
 
-### 21-05-2019 | V 0.0.7 (Release)
+### 22-05-2019 | V 0.0.7 (Release)
 - Various Fix
+
+### 22-05-2019 | V 0.0.7 U1 (Release)
+- Fix Load Css Bug
+
+### 22-05-2019 | V 0.0.7 U2 (Release)
+- Add Google Tracker
+
+### 29-05-2019 | V 0.0.7 U3
+- Fix "Style.css" Desciption
+- Fix "Style.css" Version
