@@ -1,4 +1,4 @@
-# [Caledonia BNB](http://www.caledoniabnb.it) - Changelog
+# [Caledonia BNB](https://www.caledoniabnb.it) - Changelog
 
 ### 01-07-2018 | Initial Commit
 - [Add Sixty One](https://www.cssigniter.com/themes/sixtyone/) Wordpress Theme

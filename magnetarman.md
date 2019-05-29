@@ -1,4 +1,4 @@
-# [MagnetarMan](http://www.magnetarman.com) - Theme Changelog
+# [MagnetarMan](https://www.magnetarman.com) - Theme Changelog
 
 ## V 4.0.0.1
 - Modificato screenshot con versione non definitiva

@@ -1,4 +1,4 @@
-# [Martina Roscia](http://www.martinaroscia.it) - Changelog
+# [Martina Roscia](https://www.martinaroscia.it) - Changelog
 
 ### 01-07-2018 | Initial Commit
 - Add [Amadeus](https://themeisle.com/themes/amadeus/) Wordpress Theme
@@ -244,6 +244,6 @@
 - Footer Animation Fix
 - Fix "Style.css" Version
 
-### 08-05-2019 | V 2.1 U2.1 (RELEASE)
+### 08-05-2019 | V 2.1.1 (RELEASE)
 - Remove Old Branch Files
 - Update "Style.css" Version
