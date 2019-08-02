@@ -198,13 +198,13 @@
 - Aggiornate regole Seo delle pagine
 - Aggiornato Versione nel Footer
 
-## V 4.0 (RELEASE)
+## V 4.4.0 (RELEASE)
 - Attivata la nuova piattaforma di Pagamento Elettronico (Beta)
 - Aggiunta Pagina di Login riservata ai clienti (Beta)
 - Aggiunta Pagina per singolo cliente con il riepilogo dei servizi attivi (Beta)
 - Aggiunta Pagina relativa alle modalità di pagamento ed al trattamento dei dati personali (Beta)
 
-## V 4.1 (RELEASE)
+## V 4.4.1 (RELEASE)
 - Eliminata Sezione Filmopedia (Dismessa)
 - Eliminata Sezione Vlog (Dismessa)
 - Eliminata Sezione Tech (Dismessa)
@@ -283,3 +283,25 @@
 ## 21-03-2019 | V 4.6.0 U4.3
 - Del "Chagenlog.md"
 - Fix "Style.css"
+
+## 31-06-2019 | V 4.6.0 U5
+- Revert to 4.5.1 (RELEASE)
+
+## 31-06-2019 | V 4.6.0 U5.1
+- Import Successful Changes from last broken version
+
+## 01-07-2019 | V 4.6.0 U5.2
+- Clean "Style.css" Code
+- Clean "Functions.php" Unused Code
+- Del Unused Page
+
+## 02-07-2019 | V 4.6.0 (RELEASE)
+- Fix "Social.php" in "Hobbies.php"
+- Change calls action
+- Add Font Awesome 5 Support
+- Convert Theme to Gutenberg Full Support
+- Add Support Page V 2.0
+- Fix Tect Align Podcast Page
+- Fix Various Bugs in HomePage
+- Add "Changelog.md" Link to Footer
+- Del Changelog Old Page
