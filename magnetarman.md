@@ -300,8 +300,13 @@
 - Change calls action
 - Add Font Awesome 5 Support
 - Convert Theme to Gutenberg Full Support
-- Add Support Page V 2.0
-- Fix Tect Align Podcast Page
+- Add Support Page V 2.1
+- Fix Text Align Podcast Page
 - Fix Various Bugs in HomePage
 - Add "Changelog.md" Link to Footer
 - Del Changelog Old Page
+
+## 06-09-2019 | V 4.6.1 (RELEASE)
+- Add New Admin Feature
+- Add New String to "intro.php" Page
+- Fix Visual imperfection
