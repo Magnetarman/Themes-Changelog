@@ -310,3 +310,12 @@
 - Add New Admin Feature
 - Add New String to "intro.php" Page
 - Fix Visual imperfection
+
+## 28-10-2019 | V 4.6.2 (RELEASE)
+- Minify all content for Boost Perfomance
+- Update "footer.php" Version
+- Add Duplicate Post function to Theme
+
+## 30-10-2019 | V 4.6.3 (RELEASE)
+- Add Text Gutenberg Support
+- Bump Version on footer
