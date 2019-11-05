@@ -247,3 +247,7 @@
 ## 08-05-2019 | V 2.1.1 (RELEASE)
 - Remove Old Branch Files
 - Update "Style.css" Version
+
+## 04-11-2019 | V 2.1.2 (RELEASE)
+- Fix Footer Error [Thanks to Stefano 2.0](https://gopod.me/ascoltarepodcast)
+- Minify Css

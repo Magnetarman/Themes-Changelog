@@ -70,3 +70,7 @@
 ## 28-10-2019 | V 1.0.1 (RELEASE)
 - Fix Responsive Core
 - Fix Contact Animation
+
+## 02-11-2019 | V 1.0.2 (RELEASE)
+- fix "footer.php" type error
+- Add Analytics
