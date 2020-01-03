@@ -1,4 +1,4 @@
-# [Bacissimi](http://www.bacissimi.it/) - Changelog
+# [Bacissimi](https://www.bacissimi.it/) - Changelog
 
 ## 06-02-2019 | Initial Commit
 - Set [Storefront](https://it.wordpress.org/themes/storefront/) Theme
@@ -86,3 +86,7 @@
 ## 26-04-2019 | V 1.2 U1.2.1
 - Code Cleaning
 - Fix First Page Cateogry Description
+
+## 12-12-2019 | V 1.3 (RELEASE)
+- Various Fix
+- Clean Repo

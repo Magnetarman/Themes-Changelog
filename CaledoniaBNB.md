@@ -160,3 +160,7 @@
 ## 17-10-2019 | V 1.4.2 (RELEASE)
 - Add Full Support to Gunteberg
 - Minify Js & Css for decrease Loadtime
+
+## 23-11-2019 | V 1.4.3 (RELEASE)
+- Fix Footer Copyright
+- Bump "Style.css" Versione
