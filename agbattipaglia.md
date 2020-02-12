@@ -45,3 +45,6 @@
 
 ## 12-12-2019 | V 1.0 (RELEASE)
 - Various Optimization Fix
+
+## 13-12-2019 | V 1.0.1 (RELEASE)
+- Fix Menu Font Loading Bug

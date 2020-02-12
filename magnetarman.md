@@ -319,3 +319,28 @@
 ## 30-10-2019 | V 4.6.3 (RELEASE)
 - Add Text Gutenberg Support
 - Bump Version on footer
+
+## 21-01-2020 | V 5.0-Alpha
+- Clean Previous Theme File
+- Add first alpha version
+
+## 21-01-2020 | V 5.0-Alpha U1
+- Fix Responsive Core
+
+## 21-01-2020 | V 5.0-Alpha U1.1
+- Add more personalization
+- Fix Responsive Core
+
+## 22-01-2020 | V 5.0-Alpha U2
+- Fix "Footer.php" Text
+- Add more color hovers
+
+## 23-01-2020 | V 5.0-Alpha U2.1
+- Add WooCommerce Fix
+- Add "async" on AwIcon load
+
+## 31-01-2020 | V 5.0 (RELEASE)
+- Some Visual Fix
+
+## 12-02-2020 | V 5.0.1 (RELEASE)
+- Fix Some Style issue

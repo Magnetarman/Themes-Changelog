@@ -63,3 +63,8 @@
 - Fix Responsive Core
 
 ## 14-01-2020 | V 3.0 (RELEASE)
+
+## 12-02-2020 | V 3.1.1 (RELEASE)
+- Add Social Icon
+- New Starter Theme
+- Re-Design Site
