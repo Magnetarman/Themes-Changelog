@@ -344,3 +344,14 @@
 
 ## 12-02-2020 | V 5.0.1 (RELEASE)
 - Fix Some Style issue
+
+## 25-03-2020 | V 5.0.2 (RELEASE)
+- Optimize Woocommerce Load
+
+## 17-05-2020 | V 5.0.3 (RELEASE)
+- Fix Style "Login" Page
+
+## 03-06-2020 | V 5.0.3 (RELEASE)
+- Fix Some Style
+- Add new "404.php" Page
+- Add New space in "footer.php"
